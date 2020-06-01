@@ -2,15 +2,18 @@ body {
   margin: 5vw;
   text-align: center;
   font-family: arial;
- }
- label,
- input {
+}
+
+label,
+input {
   height: 40px;
   line-height: 40px;
   font-size: 30px;
- }
- div {
+}
+
+div {
   border: 2px solid black;
   font-size: 40px;
   margin: 20px;
- }
+}
+/*# sourceMappingURL=style.css.map */
